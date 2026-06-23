@@ -2,3 +2,6 @@ LangChain Prompts/.env
 langchain-structured-output/.env
 langchain_output_parser/.env
 langchain Chains/.env
+langchain Runnables/.
+Document Loaders/.env
+langchain Runnables/.env
